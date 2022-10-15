@@ -71,7 +71,7 @@
                                 <input type="email" id="email"name="email"value="{{ old('email') }}" class="form-control form-control-lg" />
                                 </div>
 
-                                <div class="row">
+                                <!-- <div class="row"> -->
                                 
                             
                                 <!-- <div class="form-outline mb-4">
